@@ -1,2 +1,2 @@
 # kaggle-comp-spaceship-titanic
-Solution for the Kaggle Spaceship Titanic competition
+My solution for the Kaggle Spaceship Titanic competition.
